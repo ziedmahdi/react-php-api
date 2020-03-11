@@ -1,0 +1,17 @@
+{
+    "name": "zied/react-api",
+    "description": "React api",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Feki Zied",
+            "email": "feki.zied@perfectsoft.one"
+        }
+    ],
+    "require": {
+        "steampixel/simple-php-router": "^0.4.0",
+        "vlucas/phpdotenv": "^4.1",
+        "rakit/validation": "^1.2"
+    }
+}
